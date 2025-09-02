@@ -1,4 +1,5 @@
-💫 Hi 👋, I'm Bushra Suliman
+💫 𝐇𝐢 👋, 𝐈'𝐦 𝐁𝐮𝐬𝐡𝐫𝐚 𝐒𝐮𝐥𝐢𝐦𝐚𝐧
+
 A passionate Web Developer || PHP Developer || SaaS Expert
 
 Email Me 👉 ✉️ bushraghanchevi@gmail.com For Collaboration/Project or Anything Else. 😊😊
