@@ -2,15 +2,15 @@
 
 𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 || 𝗣𝗛𝗣 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 || 𝗦𝗮𝗮𝗦 𝗘𝘅𝗽𝗲𝗿𝘁
 
-❇️ Email Me: bushraghanchevi@gmail.com For Collaboration/Project or Anything Else.
+🟢 Email Me: bushraghanchevi@gmail.com For Collaboration/Project or Anything Else.
 
-❇️ I’m currently working on: Building digital products and improving my development & design skills
+🟢 I’m currently working on: Building digital products and improving my development & design skills
 
-❇️ I’m currently learning: Node.js & Python
+🟢 I’m currently learning: Node.js & Python
 
-❇️ I’m looking to collaborate on: B2B SaaS projects, web apps, and AI-driven tools
+🟢 I’m looking to collaborate on: B2B SaaS projects, web apps, and AI-driven tools
 
-❇️ Pronouns: Bushra
+🟢 Pronouns: Bushra
 
 ❇️ Fun fact: I Love Tech and Tech Love Me
 
