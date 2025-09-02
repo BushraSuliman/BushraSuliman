@@ -1,17 +1,18 @@
 💫 𝐇𝐢 👋, 𝐈'𝐦 𝐁𝐮𝐬𝐡𝐫𝐚 𝐒𝐮𝐥𝐢𝐦𝐚𝐧
 
 A passionate Web Developer || PHP Developer || SaaS Expert
-Email Me 👉 ✉️ bushraghanchevi@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Building digital products and improving my development & design skills
+❇️ Email Me: bushraghanchevi@gmail.com For Collaboration/Project or Anything Else.
 
-🌱 I’m currently learning: Node.js & Python
+❇️ I’m currently working on: Building digital products and improving my development & design skills
 
-👯 I’m looking to collaborate on: B2B SaaS projects, web apps, and AI-driven tools
+❇️ I’m currently learning: Node.js & Python
 
-😄 Pronouns: Bushra
+❇️ I’m looking to collaborate on: B2B SaaS projects, web apps, and AI-driven tools
 
-⚡ Fun fact: I Love Tech and Tech Love Me
+❇️ Pronouns: Bushra
+
+❇️ Fun fact: I Love Tech and Tech Love Me
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BushraSuliman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
